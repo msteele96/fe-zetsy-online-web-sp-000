@@ -18,3 +18,9 @@ body {
 }
 
 /* Write all remaining styles here */
+
+img {
+	border: 5px solid #9baca6;
+	/* border-color: #9baca6; */
+
+}
